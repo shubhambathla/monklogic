@@ -1,5 +1,5 @@
 import React from 'react';
-import {AnswerQuestionWebDev} from '@/src/common/answer-question';
+import AnswerQuestionWebDev from '@/src/common/answer-question';
 import Link from 'next/link';
 import Image from 'next/image';
 import dashbord from "../../../public/assets/img/service/sv-dashbord.png";

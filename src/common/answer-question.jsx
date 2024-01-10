@@ -255,5 +255,6 @@ const AnswerQuestionDigitalMarketing = ({style}) => {
   );
 };
 
-export { AnswerQuestionWebDev, AnswerQuestionCryptoSolutions, AnswerQuestionContentCreation,AnswerQuestionWebDesigning, AnswerQuestionCloudServices, AnswerQuestionDigitalMarketing };
-// export default AnswerQuestionWebDev;
+export default AnswerQuestionWebDev;
+export {AnswerQuestionCryptoSolutions, AnswerQuestionContentCreation,AnswerQuestionWebDesigning, AnswerQuestionCloudServices, AnswerQuestionDigitalMarketing };
+

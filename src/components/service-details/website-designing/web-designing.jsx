@@ -1,8 +1,8 @@
 import React from 'react';
-import {AnswerQuestionWebDesigning} from '@/src/common/answer-question';
+import AnswerQuestionWebDesigning from '@/src/common/answer-question/web-des-faq';
 import Link from 'next/link';
 import Image from 'next/image';
-import dashbord from "../../../../public/assets/img/service/sv-dashbord.png";
+// import dashbord from "../../../../public/assets/img/service/sv-dashbord.png";
 import service_img from "../../../../public/assets/img/service/web-designing.jpg"; 
 
 const service_details_content = {
