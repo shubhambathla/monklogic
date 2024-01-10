@@ -108,7 +108,7 @@ const WebDevServiceDetailsArea = () => {
                            </div>
                         </div>
 
-                        <div className="tp-service__dashboard mb-30" style={{backgroundImage: `url(${bg_img})`}}>
+                        {/* <div className="tp-service__dashboard mb-30" style={{backgroundImage: `url(${bg_img})`}}>
                            <div className="tp-service__top-content">
                               <h3 className="tp-service__title-white">Data Analysis <br /> Tools & Methods</h3>
                               <p>Lorem Ipsum is simply dummy text <br /> of the printing</p>
@@ -121,7 +121,7 @@ const WebDevServiceDetailsArea = () => {
                               <Image src={dashbord} className="wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".3s" 
                                alt="theme-pure" />
                            </div>
-                        </div>
+                        </div> */}
 
                         <div className="sv-details-social-box mb-30">
                            <h4 className="sv-details-title-sm">Share it.</h4>

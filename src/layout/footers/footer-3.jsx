@@ -9,7 +9,7 @@ import Link from 'next/link';
 import React from 'react';
 import Slider from 'react-slick';
 
-import footer_logo from  "../../../public/assets/img/logo/logo-black.png";
+// import footer_logo from  "../../../public/assets/img/logo/logo-black.png";
 
 const footer_content = {
     bg_img: "/assets/img/footer/overly.png",
@@ -196,9 +196,9 @@ const FooterThree = () => {
                         <div className="col-xl-3 col-lg-3 col-md-6 pb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                             <div className="tp-footer__widget footer-widget-3 footer-col-3-1">
                                 <div className="tp-footer__logo mb-25">
-                                    <Link href="/">
+                                    {/* <Link href="/">
                                     <Image src={footer_logo} alt="" /> 
-                                    </Link>
+                                    </Link> */}
                                 </div>
                                 <div className="tp-footer__contact-info">
                                     <p>{description}</p>

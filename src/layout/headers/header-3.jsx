@@ -6,7 +6,7 @@ import NavMenu from './nav-menu';
 import Image from 'next/image';
 
 
-import logo from "../../../public/assets/img/logo/logo-black.png"
+// import logo from "../../../public/assets/img/logo/logo-black.png"
 
 const HeaderThree = () => {
 
@@ -20,9 +20,9 @@ const HeaderThree = () => {
                <div className="container">
                   <div className="row align-items-center">
                      <div className="col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-6">
-                        <div className="header-bottom__logo">
+                        {/* <div className="header-bottom__logo">
                            <Link href="/"><Image src={logo} alt="" /></Link>
-                        </div>
+                        </div> */}
                      </div>
                      <div className="col-xxl-6 col-xl-6 col-lg-6 d-none d-lg-block">
                         <div className="header-bottom__main-menu header-bottom__main-menu-3">

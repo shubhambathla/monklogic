@@ -5,7 +5,7 @@ import React,{useState} from 'react';
 import NavMenu from './nav-menu';
 import Image from 'next/image';
 
-import logo from "../../../public/assets/img/logo/logo-black.png";
+// import logo from "../../../public/assets/img/logo/logo-black.png";
 
 const HeaderFive = () => {
    const {sticky}  =  useSticky()
@@ -18,9 +18,9 @@ const HeaderFive = () => {
                   <div className="container-fluid p-0">
                      <div className="row g-0 align-items-center">
                         <div className="col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-6">
-                           <div className="header-bottom__logo">
+                           {/* <div className="header-bottom__logo">
                               <Link href="/"><Image src={logo} alt="theme-pure" /></Link>
-                           </div>
+                           </div> */}
                         </div>
                         <div className="col-xxl-8 col-xl-7 col-lg-8 d-none d-lg-block">
                            <div className="header-bottom__main-menu header-bottom__main-menu-5 text-center">

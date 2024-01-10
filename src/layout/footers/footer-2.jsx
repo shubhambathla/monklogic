@@ -5,7 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React,{useState} from 'react';
 // img import 
-import footer_logo from "../../../public/assets/img/logo/logo-black.png";
+// import footer_logo from "../../../public/assets/img/logo/logo-black.png";
 import qr_code from "../../../public/assets/img/footer/dwnld-1.png";
 import i_phone from "../../../public/assets/img/footer/dwnld-2.png";
 import google_ply from "../../../public/assets/img/footer/dwnld-3.png"; 
@@ -86,9 +86,9 @@ const FooterTwo = () => {
                <div className="col-xl-3 col-lg-3 col-md-6 pb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div className="tp-footer__widget footer-widget-2 footer-col-2-1">
                      <div className="tp-footer__logo mb-25">
-                        <Link href="/">
+                        {/* <Link href="/">
                            <Image src={footer_logo} alt="them-pure"/>
-                        </Link>
+                        </Link> */}
                      </div>
                      <div className="tp-footer__contact-info">
                         <Link href="https://www.google.com.bd/maps/place/%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%97/@49.8143242,5.5590915,10z/data=!3m1!4b1!4m5!3m4!1s0x479545b9ca212147:0x64db60f602d392ef!8m2!3d49.815273!4d6.129583"

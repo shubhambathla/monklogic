@@ -9,7 +9,7 @@ import Image from 'next/image';
 import React from 'react';
 
 import footer_shape from "../../../public/assets/img/footer/footer-bottom-shape-4-1.png";
-import footer_logo from "../../../public/assets/img/logo/logo-white.png";
+// import footer_logo from "../../../public/assets/img/logo/logo-white.png";
 
 
 const footer_content = {
@@ -52,9 +52,9 @@ const FooterFour = () => {
                         <div className="col-xl-4 col-lg-4 col-md-6 pb-45 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                            <div className="tp-footer__widget footer-widget-4 footer-col-4-1">
                               <div className="tp-footer__logo mb-25">
-                                 <Link href="/">
+                                 {/* <Link href="/">
                                     <Image src={footer_logo} alt="theme-pure" />
-                                 </Link>
+                                 </Link> */}
                               </div>
                               <h3 className="footer-subtitle-3">{sub_title}</h3>
                               <div className="tp-footer__input mb-15 p-relative">

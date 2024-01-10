@@ -2,7 +2,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import blog_details_img_1  from "./../../../../public/assets/img/blog/seo.jpg";
+import blog_details_img_1  from "../../../../public/assets/img/blog/seo.jpg";
 
 
 const post_box_content = {
