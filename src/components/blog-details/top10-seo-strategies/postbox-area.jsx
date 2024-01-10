@@ -23,7 +23,7 @@ const post_box_content = {
 
     ],
     title_2: "Keyword Research and Optimization",
-    des_2: <>Keyword research is the foundation of any successful SEO strategy. Start by identifying relevant keywords and phrases that your target audience is likely to search for. Use tools like Google Keyword Planner or SEMrush to discover high-value keywords. Once you have your keywords, strategically place them in your content, titles, meta descriptions, and headers while ensuring natural readability.</>,
+    des_2: <>Keyword research is the foundation of any successful SEO strategy. Start by identifying relevant keywords and phrases that your target audience is likely to search for. Use tools like Google Keyword Planner or SEMrush to discover high-value keywords. Once you have your keywords, strategically place them in your content, titles, meta descriptions, and headers while ensuring readability.</>,
     
     title_3:"High-Quality Content Creation",
     des_3: <>Quality content is king in the world of SEO. Create informative, engaging, and relevant content that addresses the needs and questions of your audience. Regularly update your website with fresh content, and aim to become a go-to resource in your niche or industry. Longer-form content tends to perform well, so consider writing in-depth articles, guides, and tutorials.</>,
