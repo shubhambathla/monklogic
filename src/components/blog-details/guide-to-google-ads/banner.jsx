@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import brand_img from "../../../../public/assets/img/blog/google-ads.jpg";
+import brand_img from "./../../../../public/assets/img/blog/google-ads.jpg";
 
 
 const Banner = () => {

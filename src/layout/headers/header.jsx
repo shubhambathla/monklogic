@@ -11,7 +11,7 @@ import useSticky from '@/src/hooks/use-sticky';
 
 
 
-import logo from "../../../public/assets/img/logo/Monklogiclogo.png";
+import logo from "./../../../public/assets/img/logo/Monklogiclogo.png";
 
 
 
