@@ -40,7 +40,7 @@ const about_data =[
 
 // about content
 const about_content = {
-    title: "OVER 100+ CLIENT",
+    title: "OVER 60+ CLIENT",
     sub_title: "MonkLogic's Web App Development Services", 
     des: <>MonkLogic combines creativity and experience to create custom and inventive web apps that realize your digital vision.</>,
 

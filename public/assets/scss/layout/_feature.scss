@@ -31,7 +31,7 @@
     }
     &__pt-pb{
         @media #{$xs}{
-            padding-top: 80px;
+            padding-top: 15px;
         } 
     }
     &__area{
@@ -64,8 +64,9 @@
         @media #{$xs}{
             // background: linear-gradient(0deg, rgb(148,135,233) 0%,rgb(251,206,188)  100%);
             background: #845ACD;
-            padding: 50px 15px;
+            padding: 30px 15px;
             font-size: 10px;
+            height:220px;
 
         }
 
@@ -73,7 +74,7 @@
 
     }
     &__icon{
-        margin-bottom: 35px;
+        margin-bottom: 20px;
         & img{
             transition: transform .5s ease;
         }

@@ -80,7 +80,7 @@ const FeatureArea = () => {
 
                <div className="row justify-content-center">
                   <div className="col-xl-6 wow tpfadeUpp" data-wow-duration=".9s" data-wow-delay=".2s">
-                     <div ref={titleRef} className="tp-feature__section-box tp__title_anime text-center mb-55 tp-title-anim">
+                     <div ref={titleRef} className="tp-feature__section-box tp__title_anime text-center mb-20 tp-title-anim">
                         <h2 className="tp-section-title">{title}</h2>
                         {/* <p>{sub_title}</p> */}
                      </div>
@@ -98,7 +98,7 @@ const FeatureArea = () => {
                            <div className="tp-feature__link tp-common-btn">
                               <Link href={item.href}>
                                  <RightArrow />
-                              </Link>
+                              </Link> 
                            </div>
                         </div>
                      </div>

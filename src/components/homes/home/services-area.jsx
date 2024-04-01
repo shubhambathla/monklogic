@@ -9,7 +9,7 @@ import img from "../../../../public/assets/img/service/sv-dashbord.png"
 
 const service_content = {
     title: "Explore Our Technologies",
-    sub_title: <>More than 100+ companies trust and choose MonkLogic</>,
+    sub_title: <>More than 60+ clients trust and choose MonkLogic</>,
 
     bg_img: "/assets/img/service/sv-bg.jpg",
     title_2: <>Solving IT challenges in  <br /> every industry, every day</>,
