@@ -83,7 +83,7 @@
 .header-bottom__area-2{
     &.header-sticky{
         position: fixed;
-        top: 0;
+        top: 0px;
         left: 0;
         right: 0;
         background-color: #fff;
@@ -230,7 +230,7 @@
 
 .header-bottom{
     &__logo {
-        margin:20px;
+        margin:10px;
     }
     &__lang {
         & > ul {
@@ -677,8 +677,9 @@
         padding-right: 60px;
     }
     @media #{$md,$xs}{
-        padding-top: 20px;
-        padding-bottom: 20px;
+        margin-top: -10px;
+        // padding-top: 0px;
+        // padding-bottom: 20px;
     }
 }
 

@@ -5,6 +5,9 @@
 /*----------------------------------------*/
 
 .tp-service{
+    &__area{
+        background-image: linear-gradient(#fefefe,#f8cc9f49  ); 
+    }
     &__section-box{
         & p{
             font-size: 18px;

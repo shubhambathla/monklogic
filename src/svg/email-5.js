@@ -4,8 +4,8 @@ const EmailFive = () => {
   return (
     <>
       <svg
-        width="17"
-        height="13"
+        width="21"
+        height="16"
         viewBox="0 0 17 13"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"

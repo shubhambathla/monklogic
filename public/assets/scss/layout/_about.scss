@@ -5,6 +5,9 @@
 /*----------------------------------------*/
 
 .tp-about{
+    &__area{
+        background-image: linear-gradient(#f9ba7c49, #fefefe, ); 
+    }
     &__pt-pb{
         @media #{$xs}{
             padding-top: 40px;

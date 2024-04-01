@@ -50,7 +50,7 @@ const CompanyArea = () => {
                               <div className="ab-company-fun-fact-wrap d-flex justify-content-center">
                                  <div className="ab-company-fun-fact d-flex flex-column  align-items-center">
                                     {/* <span>USED BY</span> */}
-                                    <h4>20<em>+</em></h4>
+                                    <h4>15<em>+</em></h4>
                                     <p>Team Members</p>
                                  </div>
                               </div>
@@ -60,7 +60,7 @@ const CompanyArea = () => {
                               <div className="ab-company-fun-fact-wrap d-flex justify-content-center">
                                  <div className="ab-company-fun-fact d-flex flex-column  align-items-center">
                                     {/* <span>USED BY</span> */}
-                                    <h4>200<em>+</em></h4>
+                                    <h4>80<em>+</em></h4>
                                     <p>Projects</p>
                                  </div>
                               </div>
@@ -70,7 +70,7 @@ const CompanyArea = () => {
                               <div className="ab-company-fun-fact-wrap d-flex justify-content-center">
                                  <div className="ab-company-fun-fact d-flex flex-column  align-items-center">
                                     {/* <span>VALUE</span> */}
-                                    <h4>100<em>+</em></h4>
+                                    <h4>60<em>+</em></h4>
                                     <p>Clients</p>
                                  </div>
                               </div>

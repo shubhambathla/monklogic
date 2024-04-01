@@ -34,8 +34,12 @@
             padding-top: 80px;
         } 
     }
+    &__area{
+        background-image: linear-gradient(#fefefe, #f9ba7c49); 
+    }
     &__item{
-        background: #FFFFFF;
+        background: #a7a9eb;
+        // background: #9B95E8;
         
         // box-shadow: linear-gradient(-45deg, #f89b29 0%, #ff0f7b 100% );
         //     transform: translate3d(0px, 20px, 0) scale(0.95);
