@@ -17,14 +17,14 @@ const inner_content = {
     {
       id: 1,
       icon: icon_1,
-      title: "info@monklogic.com",
-      link: "mailto:info@monklogic.com",
+      title: "connect@monklogic.com",
+      link: "mailto:connect@monklogic.com",
     },
     {
       id: 2,
       icon: icon_2,
-      title: "+91-9837310900",
-      link: "tel:+91-9837310900",
+      title: "+91-9997775254",
+      link: "tel:+91-9997775254",
     },
     {
       id: 3,

@@ -17,7 +17,7 @@ import { useIsomorphicLayoutEffect } from '@/src/hooks/useIsomorphicEffect';
 const footer_content  = {
     title: <>Get Our Latest's News <br /> & Updates</>,
     description: <>Our highly skilled development teams <br /> specialized in software developement.</>,
-    phone: "+91-9837310900",
+    phone: "+91-9997775254",
     contact_mail: "connect@monklogic.com",
     location: "161 Angus Drive, North York, Toronto",
 
@@ -31,12 +31,12 @@ const footer_content  = {
             title: "What We Do",
             delay: ".7s",
             links: [
-                {name: "Web Designing", link: "#"},
-                {name: "Web Development", link: "#"},
-                {name: "Crypto Solutions", link: "#"},
-                {name: "Content Creation", link: "#"},
-                {name: "Digital Marketing", link: "#"},
-                {name: "Cloud Services", link: "#"},
+                {name: "Web Designing", link: "https://www.monklogic.com/website-designing"},
+                {name: "Web Development", link: "https://www.monklogic.com/website-development"},
+                {name: "Crypto Solutions", link: "https://www.monklogic.com/crypto-solutions"},
+                {name: "Content Creation", link: "https://www.monklogic.com/content-creation"},
+                {name: "Digital Marketing", link: "https://www.monklogic.com/cloud-services"},
+                {name: "Cloud Services", link: "https://www.monklogic.com/digital-marketing"},
             ]
         },
         {

@@ -116,10 +116,10 @@ const WebDevServiceDetailsArea = () => {
                         <div className="sv-details-social-box mb-30">
                            <h4 className="sv-details-title-sm">Share it.</h4>
                            <div className="sv-details-social-link">
-                              <Link href="#"><i className="fab fa-facebook-f"></i></Link>
-                              <Link href="#"><i className="fab fa-twitter"></i></Link>
-                              <Link href="#"><i className="fab fa-instagram"></i></Link>
-                              <Link href="#"><i className="fab fa-youtube"></i></Link>
+                              <Link href="https://www.facebook.com/profile.php?id=61555059489390&mibextid=LQQJ4d"><i className="fab fa-facebook-f"></i></Link>
+                              <Link href="https://www.instagram.com/monklogic_?igsh=MXhsMDFiaGxuOHU1"><i className="fab fa-instagram"></i></Link>
+                              <Link href="https://www.linkedin.com/company/monklogic/"><i className="fab fa-linkedin"></i></Link>
+                              <Link href="https://twitter.com/Monklogic_"><i className="fab fa-twitter"></i></Link>                  
                            </div>
                         </div>
 

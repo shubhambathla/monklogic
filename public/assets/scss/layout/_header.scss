@@ -232,9 +232,9 @@
 
 
 .header-bottom{
-    // &__logo {
-    //     margin:10px;
-    // }
+    &__logo {
+        margin:10px;
+    }
     &__lang {
         & > ul {
             & > li {
@@ -343,7 +343,7 @@
     &__main-menu{
         & nav{
             & ul{
-                margin-left: -45px;
+                // margin-left: -45px;
                 @media #{$lg}{
                     margin-left: -2px;  
                 }
@@ -532,7 +532,7 @@
         &.header-bottom__main-menu-inner{
             & nav{
                 & ul{
-                    margin-left: -20px;
+                    // margin-left: -20px;
                     @media #{$lg}{
                         margin-left: 25px;
                     }
